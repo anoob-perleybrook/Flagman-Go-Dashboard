@@ -22,7 +22,7 @@ const Right_Column = () => {
 
                     <div>
                         <h1 className="text-[25px] font-semibold " >Manage Your Device</h1>
-                        <p className="text-gray-700 " >View all the deatils and build logs</p>
+                        <p className="text-gray-600 " >View all the deatils and build logs</p>
                     </div>
 
                     <div></div>
